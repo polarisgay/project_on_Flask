@@ -1,0 +1,16 @@
+body {font-family: Verdana;}
+h1 {font-size: 32pt;}
+p {font-size: 14pt !important;}
+.picture img {width:67%;}
+.advertising {
+	margin-left: 30pt;
+	font-size: 12pt;
+	margin-top: 5pt;
+	margin-bottom: 5pt;
+}
+header {text-align: center;}
+main {text-align: justify;}
+footer {text-align: right;}
+.bigger {font-size: 16pt;}
+.1name {font-weight: normal;}
+.popa {font-size: 4pt;}
