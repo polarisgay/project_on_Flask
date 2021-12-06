@@ -19,7 +19,7 @@ a: hover{
 
 ul.mainmunu{
     list-style: none;
-    background: #ca741f;
+    background: #9090fa;
     height: 60px;
     margin: 0;
     padding: 0;
@@ -34,11 +34,11 @@ ul.mainmunu li {
 ul.mainmunu li.last {float: right}
 
 ul.mainmunu li a {
-    color: #0d66d0;
+    color: #1a1a1a;
     text-decoration: none;
 }
 ul.mainmunu li a:hover {
-    color: #FDA73D;
+    color: #191919;
 }
 
 div.content {
